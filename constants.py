@@ -1,0 +1,1 @@
+APIKEY = "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"
